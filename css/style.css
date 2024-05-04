@@ -122,10 +122,14 @@ address{
 
  .section-box{
         max-width: 1440px;
-        background: #2e2f42;
         margin-left: auto;
         margin-right: auto;
         padding: 188px 0;
+        background: #2e2f42;
+        background-image: url(/images/background/people-office.jpg);
+        background-repeat: no-repeat;
+        background-position: center ;
+        background-size: auto;
  }
  .main-box-container{
         padding-top: 188px;
